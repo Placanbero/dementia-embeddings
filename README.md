@@ -2,7 +2,7 @@
 
 This repository provides the notebook and associated code for reproducing the experiments presented in the research article **"Exploring LLM Embedding Potential for Dementia Detection Using Audio Transcripts."**. 
 
-The experiments evaluate various text embedding methods (BERT, TF-IDF, GloVe, Gemma-2B, and Linq-Embed-Mistral) on transcripts from the PittCorpus (DementiaBank) dataset to detect indicators of Alzheimer's dementia. 
+The experiments evaluate various text embedding methods (BERT, Tf-Idf, GloVe, Gemma-2B, and Linq-Embed-Mistral) on transcripts from the PittCorpus (DementiaBank) dataset to detect indicators of Alzheimer's dementia. 
 
 ## Reproducibility
 
