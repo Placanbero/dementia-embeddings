@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+
+# Colab-specific files
+.colab_checkpoint
+
+# Local data files (do not upload local data)
+*.csv
+*.xlsx
+*.tsv
+*.pickle
+*.npy
+
+# Personal or sensitive information
+*.env
+.env
+*.json
